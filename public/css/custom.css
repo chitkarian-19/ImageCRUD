@@ -1,0 +1,9 @@
+body, .modal-header {
+  background: #d3959b; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #d3959b, #bfe6ba); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #d3959b, #bfe6ba);
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:black;
+    opacity: 1; /* Firefox */
+  }
